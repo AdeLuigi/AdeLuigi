@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Ade!!!
+## Heeey!! I'm Ademario 🚀🚀🚀 
  <img height="240em" src="mini ade.png"/>
  <div>
   <a href="https://github.com/AdeLuigi">
