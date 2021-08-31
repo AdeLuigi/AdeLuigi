@@ -1,5 +1,16 @@
 ## Heeey!! I'm Ademario 🤩 
- <img height="240em" src="mini ade.png"/>
+ <div>
+<img height="240em" src="mini ade.png"/>
+<div>
+I'm a Mobile and Full-stack developer. 📱🚀
+
+You can check my repositories for a collection of personal projects I've worked on as well as university projects I've done.
+ 
+I have projects in several languages, but JavaScript is my favorite language, you will see many projects with React, TypeScript and Node in my repositories. I'm working on the development of the Rio de Janeiro Public Defender's app that impacts more than 300,000 people in 92 cities of Brazil.
+
+ </div>
+ 
+</div>
  <div>
   <a href="https://github.com/AdeLuigi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdeLuigi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
