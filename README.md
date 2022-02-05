@@ -7,6 +7,8 @@ I'm a Mobile and Full-stack developer. 📱🚀
 You can check my repositories for a collection of personal projects I've worked on as well as university projects I've done.
  
 I have projects in several languages, but JavaScript is my favorite language, you will see many projects with React, TypeScript and Node in my repositories. I'm working on the development of the Rio de Janeiro Public Defender's app that impacts more than 300,000 people in 92 cities of Brazil.
+ 
+Currently I am working as a software development intern at the best Brazilian midiatech @globocom. I am part of the Serverless team, which aims to bring high performance performative solutions based on microservices, among these solutions some are open source, such as functions and functions-sandbox.
 
  </div>
  
